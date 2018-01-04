@@ -1,0 +1,1 @@
+https://my.freenom.com/clientarea.php?action=domaindetails&id=1036626299:q_56@brauksimkopa.lv:The HTTP request to the remote WebDriver server for URL http://localhost:42506/session/062d23dab5f9c07d4a0e6627daa2abc0/element/0.3029310960986922-7/click timed out after 60 seconds.

@@ -1,0 +1,10 @@
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\bin\Debug\domain.txt
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\bin\Debug\WebDriver.dll
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\bin\Debug\WebDriver.xml
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\obj\Debug\AppendDomainToServer.csprojResolveAssemblyReference.cache
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\obj\Debug\AppendDomainToServer.csproj.CoreCompileInputs.cache
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\AppendDomainToServer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
